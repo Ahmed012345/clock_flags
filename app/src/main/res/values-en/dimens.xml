@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //الإفتتاح
+    <dimen name="enwan_big">@dimen/_18font_mdp</dimen>
+    <dimen name="enwan_small">@dimen/_14font_mdp</dimen>
+</resources>
