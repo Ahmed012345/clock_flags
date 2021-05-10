@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/_100mdp"
+    android:layout_height="@dimen/_116mdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="@dimen/_10mdp"
+    app:cardBackgroundColor="@color/white"
+    android:layout_gravity="center"
+    android:layout_margin="@dimen/_4mdp">
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/_4mdp"
+        android:focusable="true"
+        android:clickable="true">
+
+        <com.zaker.clockhall.small_library.LightTextView
+            android:id="@+id/city_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="@dimen/_8mdp"
+            android:paddingTop="@dimen/_4mdp"
+            android:textAllCaps="true"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_14font_mdp"
+            android:textStyle="bold"
+            android:visibility="invisible"
+            tools:text="Washington" />
+
+        <ImageView
+            android:id="@+id/city_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            tools:src="@drawable/egypt"
+            tools:ignore="ContentDescription" />
+
+    </FrameLayout>
+
+
+</androidx.cardview.widget.CardView>

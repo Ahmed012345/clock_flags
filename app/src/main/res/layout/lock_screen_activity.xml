@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/lock_screen_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:layoutDirection="ltr"
+    tools:context=".lockscreen.LockScreenActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/relel_ContentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingStart="@dimen/_8mdp"
+        android:paddingEnd="@dimen/_8mdp">
+
+
+        <RelativeLayout
+            android:id="@+id/linel_LockTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.zaker.clockhall.small_library.LightTextView
+                android:id="@+id/txtv_LockDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="@dimen/_31mdp"
+                android:layout_marginStart="@dimen/_10mdp"
+                android:fontFamily="sans-serif-light"
+                android:longClickable="false"
+                android:text="Tuesday, June 20"
+                android:textColor="@color/white"
+                android:textSize="@dimen/massege" />
+        </RelativeLayout>
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/clock_background"
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="@dimen/_75mdp"
+            android:layout_width="@dimen/_120mdp"
+            android:layout_height="@dimen/_120mdp"/>
+
+        <com.zaker.clockhall.clockview.Clock
+            android:id="@+id/clock_lock"
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="@dimen/_75mdp"
+            android:layout_width="@dimen/_120mdp"
+            android:layout_height="@dimen/_120mdp"
+            app:hours_needle_color="@color/gray_light"
+            app:minutes_needle_color="@color/gray_light"
+            app:seconds_needle_color="@color/gray_light"
+            app:show_seconds_needle="true"
+            app:show_border="true"
+            app:border_color="@color/gray_light"
+            app:center_outer_color="@color/Color_DarkViolet"
+            app:center_inner_color="@color/Color_DeepPink"
+            app:show_center="true"/>
+
+        <com.zaker.clockhall.startgallry.VerticalMarqueeTextView
+            android:id="@+id/marquee"
+            android:layout_below="@+id/clock_lock"
+            android:layout_marginTop="@dimen/_10mdp"
+            android:layout_marginBottom="@dimen/_100mdp"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:marqueeSpeed="15"
+            app:textSize="12sp"
+            app:textColor="@color/white"
+            app:text="@string/Sudan_lock"/>
+
+    </RelativeLayout>
+
+    <com.zaker.clockhall.widget.TouchToUnLockView
+        android:id="@+id/tulv_UnlockView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible" />
+
+</RelativeLayout>
