@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		tools:context=".activities.PatientSelectionActivity">
+
+	<item
+			android:id="@+id/meddil_arab"
+			android:icon="@drawable/meddil_arab"
+			android:title="@string/meddil_arab" />
+	<item
+			android:id="@+id/east_arab"
+			android:icon="@drawable/east_arab"
+			android:title="@string/east_arab" />
+	<item
+			android:id="@+id/west_arab"
+			android:icon="@drawable/west_arab"
+			android:title="@string/west_arab" />
+	<item
+			android:id="@+id/algazera_arab"
+			android:icon="@drawable/algazera_arab"
+			android:title="@string/algazera_arab" />
+	<item
+		android:id="@+id/east_africa"
+		android:icon="@drawable/east_africa"
+		android:title="@string/east_africa" />
+	<item
+		android:id="@+id/middel_africa"
+		android:icon="@drawable/middel_africa"
+		android:title="@string/middel_africa" />
+	<item
+		android:id="@+id/south_africa"
+		android:icon="@drawable/ssouth_africa"
+		android:title="@string/south_africa" />
+	<item
+		android:id="@+id/west_africa"
+		android:icon="@drawable/west_africa"
+		android:title="@string/west_africa" />
+	<item
+		android:id="@+id/middel_asia"
+		android:icon="@drawable/middel_asia"
+		android:title="@string/middel_asia" />
+	<item
+		android:id="@+id/east_asia"
+		android:icon="@drawable/east_asia"
+		android:title="@string/east_asia" />
+	<item
+		android:id="@+id/southeast_asia"
+		android:icon="@drawable/southeast_asia"
+		android:title="@string/southeast_asia" />
+	<item
+		android:id="@+id/south_asia"
+		android:icon="@drawable/south_asia"
+		android:title="@string/south_asia" />
+	<item
+		android:id="@+id/west_asia"
+		android:icon="@drawable/west_asia"
+		android:title="@string/west_asia" />
+	<item
+		android:id="@+id/north_europe"
+		android:icon="@drawable/north_europe"
+		android:title="@string/north_europe" />
+	<item
+		android:id="@+id/south_europe"
+		android:icon="@drawable/south_europe"
+		android:title="@string/south_europe" />
+	<item
+		android:id="@+id/west_europe"
+		android:icon="@drawable/west_europe"
+		android:title="@string/west_europe" />
+	<item
+		android:id="@+id/east_europe"
+		android:icon="@drawable/east_europe"
+		android:title="@string/east_europe" />
+	<item
+		android:id="@+id/north_amirca"
+		android:icon="@drawable/north_amirca"
+		android:title="@string/north_amirca" />
+	<item
+		android:id="@+id/north_amirca_gzr"
+		android:icon="@drawable/gzr_caripe"
+		android:title="@string/north_amirca_gzr" />
+	<item
+		android:id="@+id/meddil_amrica"
+		android:icon="@drawable/meddil_amrica"
+		android:title="@string/meddil_amrica" />
+	<item
+		android:id="@+id/south_amrica"
+		android:icon="@drawable/south_amrica"
+		android:title="@string/south_amrica" />
+	<item
+		android:id="@+id/australia"
+		android:icon="@drawable/astralia"
+		android:title="@string/australia" />
+</menu>

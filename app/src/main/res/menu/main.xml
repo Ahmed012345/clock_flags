@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/arbic"
+        android:icon="@drawable/egypt"
+        tools:ignore="MenuTitle"/>
+
+    <item
+        android:id="@+id/english"
+        android:icon="@drawable/england"
+        tools:ignore="MenuTitle"/>
+</menu>
