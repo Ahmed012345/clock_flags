@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- clock -->
+    <declare-styleable name="Clock">
+
+        <attr name="clock_type" format="enum">
+            <enum name="analogical" value="0" />
+            <enum name="numeric" value="1" />
+            <enum name="stopwatch" value="2" />
+            <enum name="time_counter" value="3" />
+        </attr>
+
+        <attr name="clock_background" format="reference" />
+
+        <attr name="values_font" format="reference" />
+        <attr name="values_color" format="color" />
+
+        <attr name="show_center" format="boolean" />
+        <attr name="center_inner_color" format="color" />
+        <attr name="center_outer_color" format="color" />
+
+        <attr name="show_border" format="boolean" />
+        <attr name="border_color" format="color" />
+        <attr name="border_style" format="enum">
+            <enum name="rectangle" value="0" />
+            <enum name="circle" value="1" />
+            <enum name="rounded_rectangle" value="2" />
+        </attr>
+        <attr name="border_radius_rx" format="integer" />
+        <attr name="border_radius_ry" format="integer" />
+
+        <attr name="show_seconds_needle" format="boolean" />
+        <attr name="seconds_needle_color" format="color" />
+        <attr name="hours_needle_color" format="color" />
+        <attr name="minutes_needle_color" format="color" />
+
+        <attr name="show_progress" format="boolean" />
+        <attr name="progress_color" format="color" />
+        <attr name="show_minutes_progress" format="boolean" />
+        <attr name="minutes_progress_color" format="color" />
+        <attr name="minutes_progress_factor" format="float" />
+        <attr name="show_seconds_progress" format="boolean" />
+        <attr name="seconds_progress_color" format="color" />
+        <attr name="seconds_progress_factor" format="float" />
+
+        <attr name="show_degree" format="boolean" />
+        <attr name="degree_color" format="color" />
+        <attr name="degree_type" format="enum">
+            <enum name="line" value="0" />
+            <enum name="circle" value="1" />
+            <enum name="square" value="2" />
+        </attr>
+        <attr name="degree_step" format="enum">
+            <enum name="quarter" value="90" />
+            <enum name="full" value="6" />
+            <enum name="twelve" value="30" />
+        </attr>
+
+        <attr name="show_hours_values" format="boolean" />
+        <attr name="show_minutes_value" format="boolean" />
+        <attr name="minutes_values_factor" format="float" />
+        <attr name="clock_value_step" format="enum">
+            <enum name="quarter" value="90" />
+            <enum name="full" value="30" />
+        </attr>
+        <attr name="clock_value_type" format="enum">
+            <enum name="none" value="-1" />
+            <enum name="roman" value="0" />
+            <enum name="arabic" value="1" />
+        </attr>
+        <attr name="clock_value_disposition" format="enum">
+            <enum name="regular" value="-1" />
+            <enum name="alternate" value="0" />
+        </attr>
+
+        <attr name="numeric_format" format="enum">
+            <enum name="hour_12" value="0" />
+            <enum name="hour_24" value="1" />
+        </attr>
+
+        <attr name="numeric_show_seconds" format="boolean" />
+
+    </declare-styleable>
+
+
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="metaButtonBarStyle" format="reference" />
+        <attr name="metaButtonBarButtonStyle" format="reference" />
+    </declare-styleable>
+
+
+    <declare-styleable name="RippleBackground">
+        <attr name="rb_color" format="color" />
+        <attr name="rb_strokeWidth" format="dimension" />
+        <attr name="rb_radius" format="dimension" />
+        <attr name="rb_duration" format="integer" />
+        <attr name="rb_rippleAmount" format="integer" />
+        <attr name="rb_scale" format="float" />
+        <attr name="rb_type" format="enum">
+            <enum name="fillRipple" value="0" />
+            <enum name="strokeRipple" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="VerticalMarqueeTextView">
+        <attr name="autoStartMarquee" format="boolean" />
+        <attr name="marqueeSpeed" format="reference|integer" />
+        <attr name="text" format="reference|string" />
+        <attr name="textSize" format="reference|dimension" />
+        <attr name="textColor" format="reference|color" />
+        <attr name="textAppearance" format="reference" />
+        <attr name="textStyle">
+            <enum name="normal" value="0" />
+            <enum name="bold" value="1" />
+            <enum name="italic" value="2" />
+        </attr>
+        <attr name="typeface">
+            <enum name="normal" value="0" />
+            <enum name="sans" value="1" />
+            <enum name="serif" value="2" />
+            <enum name="monospace" value="3" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="ColorTextViewAttrs">
+        <attr name="clt_txt1" format="string"/>
+        <attr name="clt_txt2" format="string"/>
+        <attr name="clt_txt3" format="string"/>
+        <attr name="clt_txt4" format="string"/>
+        <attr name="clt_txt5" format="string"/>
+        <attr name="clt_txt6" format="string"/>
+        <attr name="clt_txt7" format="string"/>
+        <attr name="clt_txt8" format="string"/>
+        <attr name="clt_txt9" format="string"/>
+        <attr name="clt_txt10" format="string"/>
+        <attr name="clt_txt11" format="string"/>
+        <attr name="clt_txt12" format="string"/>
+        <attr name="clt_txt13" format="string"/>
+        <attr name="clt_txt14" format="string"/>
+        <attr name="clt_txt15" format="string"/>
+        <attr name="clt_txt16" format="string"/>
+        <attr name="clt_txt17" format="string"/>
+        <attr name="clt_txt18" format="string"/>
+        <attr name="clt_txt19" format="string"/>
+        <attr name="clt_txt20" format="string"/>
+        <attr name="clt_txt21" format="string"/>
+        <attr name="clt_txt22" format="string"/>
+        <attr name="clt_txt23" format="string"/>
+        <attr name="clt_txt24" format="string"/>
+        <attr name="clt_txt25" format="string"/>
+        <attr name="clt_txt26" format="string"/>
+
+        <attr name="clt_color1" format="color"/>
+        <attr name="clt_color2" format="color"/>
+        <attr name="clt_color3" format="color"/>
+        <attr name="clt_color4" format="color"/>
+        <attr name="clt_color5" format="color"/>
+        <attr name="clt_color6" format="color"/>
+        <attr name="clt_color7" format="color"/>
+        <attr name="clt_color8" format="color"/>
+        <attr name="clt_color9" format="color"/>
+        <attr name="clt_color10" format="color"/>
+        <attr name="clt_color11" format="color"/>
+        <attr name="clt_color12" format="color"/>
+        <attr name="clt_color13" format="color"/>
+        <attr name="clt_color14" format="color"/>
+        <attr name="clt_color15" format="color"/>
+        <attr name="clt_color16" format="color"/>
+        <attr name="clt_color17" format="color"/>
+        <attr name="clt_color18" format="color"/>
+        <attr name="clt_color19" format="color"/>
+        <attr name="clt_color20" format="color"/>
+        <attr name="clt_color21" format="color"/>
+        <attr name="clt_color22" format="color"/>
+        <attr name="clt_color23" format="color"/>
+        <attr name="clt_color24" format="color"/>
+        <attr name="clt_color25" format="color"/>
+        <attr name="clt_color26" format="color"/>
+
+        <attr name="clt_spaces" format="boolean"/>
+    </declare-styleable>
+</resources>

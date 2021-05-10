@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="bgGradientStart">#000000</color>
+    <color name="bgGradientEnd">#d8000000</color>
+
+    <color name="bgSolidDark">#55000000</color>
+
+    <color name="headGradientStart">#00ffffff</color>
+    <color name="headGradientCenter">#00ffffff</color>
+    <color name="headGradientEnd">#96000000</color>
+
+    <color name="colorListDivider">#e6e6e6</color>
+
+
+
+    <color name="black">#000000</color>
+    <color name="black_light">#99444444</color>
+    <color name="gray_dark">#616161</color>
+    <color name="gray_light">#9e9e9e</color>
+    <color name="brown">#42c7a3</color>
+
+    <color name="red">#F44336</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="yellowDark">#FBC02D</color>
+    <color name="green">#4CAF50</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="greyDark">#616161</color>
+    <color name="greyDarkDark">#424242</color>
+    <color name="pink">#FF80AB</color>
+    <color name="pinkDark">#EC407A</color>
+    <color name="blueDark">#1976D2</color>
+    <color name="blue">#2196F3</color>
+
+
+    <color name="black_grey">#212121</color>
+    <color name="gray">#EAEAEA</color>
+    <color name="accent">#00B8D4</color>
+    <color name="accent_dark">#00A6BC</color>
+
+    <color name="stroke">#b4b4b4</color>
+    <color name="an">#BC9E44</color>
+    <color name="dodger_blue">#249ff4</color>
+    <color name="mantis">#55b859</color>
+    <color name="dim_gray">#6f6f6f</color>
+    <color name="manatee">#979797</color>
+    <color name="dark_orchid">#EE4035</color>
+    <color name="timberwolf">#d8d8d8</color>
+    <color name="portland_orange">#fc5f23</color>
+    <color name="usc_gold">#9ebc44</color>
+
+    <!--Main Activity-->
+    <color name="view">#2F57F9</color>
+    <color name="ic_add_ripple">#A47900</color>
+    <color name="bmbnormal">#2FF72F</color>
+    <color name="bmbhalight">#F7E02F</color>
+
+
+    <color name="ld_textInputError">#F44336</color>
+    <!-- Text Colors -->
+    <color name="textPrimary">#2D2D2D</color>
+    <color name="textSecondary">#8C8C8C</color>
+
+    <!-- Button Colors -->
+    <color name="button_normal">#bbbbbb</color>
+    <color name="button_inactive">#757575</color>
+    <color name="button_pressed">@android:color/holo_red_light</color>
+
+    <!-- Basic Colors -->
+    <color name="white_pressed">#c8ffffff</color>
+    <color name="blackTranslucent">#7c000000</color>
+    <color name="loading">#40c4ff</color>
+    <color name="green_light">#1affa7</color>
+
+    <!-- Permissions Dialogue Colors -->
+    <color name="alert_actionsheet_header">#c8ffffff</color>
+    <color name="alert_text_default">#000000</color>
+    <color name="colorPrimaryLight">#ff6666</color>
+
+    <color name="text_primary_light">#ffffffff</color>
+    <color name="text_primary_light2">#ccffffff</color>
+    <color name="text_secondary_light">#b3ffffff</color> <!-- 70% -->
+    <color name="selected_item_color">#30ffffff</color>
+    <color name="text_primary_dark">#de000000</color> <!-- 87% -->
+    <color name="text_secondary_dark">#8a000000</color> <!-- 54% -->
+
+    <color name="dark_white">#eaeaea</color>
+    <color name="white">#ffffff</color>
+    <color name="divider">#12FFFFFF</color>
+    <color name="icon_background">#f3f5f7</color>
+    <color name="highlight_light">#A1FFFFFF</color>
+
+
+    <color name="transparent">#00000000</color>
+
+    <!--<color name="custom_float_bg">#96333333</color>-->
+    <color name="custom_float_bg">#F27474</color>
+
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <!--<color name="sweet_dialog_bg_color_dark">#f0283135</color>-->
+    <color name="sweet_dialog_bg_color_dark">#e6222222</color>
+
+    <!-- color from original game-->
+    <color name="main_green_color">#6bd505</color>
+    <color name="main_green_stroke_color">#60bf04</color>
+    <color name="main_orange_color">#f77805</color>
+    <color name="main_orange_stroke_color">#e66f04</color>
+    <color name="main_orange_light_color">#f7b90d</color>
+    <color name="main_orange_light_stroke_color">#e4ab0c</color>
+    <color name="main_blue_color">#2469df</color>
+    <color name="main_blue_stroke_color">#205ec7</color>
+    <color name="main_cyan_color">#05d9f7</color>
+    <color name="main_cyan_stroke_color">#05c7e2</color>
+
+    <color name="main_disabled_color">#838383</color>
+    <color name="main_disabled_stroke_color">#707070</color>
+
+
+    <color name="white_transparent_10">#E6FFFFFF</color>
+    <color name="white_transparent_20">#CDFFFFFF</color>
+    <color name="white_transparent_50">#7EFFFFFF</color>
+    <color name="white_transparent_80">#32FFFFFF</color>
+    <color name="white_transparent_88">#1EFFFFFF</color>
+
+    <color name="finestWhite10">#1AFFFFFF</color>
+    <color name="finestWhite20">#33FFFFFF</color>
+    <color name="finestWhite30">#4DFFFFFF</color>
+
+    <color name="finestGray10">#1AD2D2D2</color>
+    <color name="finestGray20">#33D2D2D2</color>
+
+    <color name="finestBlack05">#0D202020</color>
+    <color name="finestBlack10">#1A202020</color>
+    <color name="finestBlack20">#33202020</color>
+    <color name="finestBlack30">#4D202020</color>
+    <color name="finestBlack40">#66202020</color>
+
+    <color name="finestWhite">#FFFFFF</color>
+    <color name="finestBlack">#000000</color>
+    <color name="finestSilver">#A5A5A5</color>
+    <color name="finestGray">#E7E7E7</color>
+
+    <color name="gradientPeriodicClouds_c1">#3453d1</color>
+    <color name="gradientPeriodicClouds_c2">#6d69ff</color>
+    <color name="gradientPeriodicClouds_c3">#cd47c6</color>
+
+    <array name="gradient1">
+        <item>@color/gradientPeriodicClouds_c1</item>
+        <item>@color/gradientPeriodicClouds_c2</item>
+        <item>@color/gradientPeriodicClouds_c3</item>
+    </array>
+
+    <color name="gradientCloudy_c1">#62bff5</color>
+    <color name="gradientCloudy_c2">#61b3e5</color>
+    <color name="gradientCloudy_c3">#5d8fb2</color>
+
+    <array name="gradient2">
+        <item>@color/gradientCloudy_c1</item>
+        <item>@color/gradientCloudy_c2</item>
+        <item>@color/gradientCloudy_c3</item>
+    </array>
+
+    <color name="gradientMostlyCloudy_c1">#ABA76B</color>
+    <color name="gradientMostlyCloudy_c2">#FD3EAC</color>
+    <color name="gradientMostlyCloudy_c3">#ef3efd</color>
+
+    <array name="gradient3">
+        <item>@color/gradientMostlyCloudy_c1</item>
+        <item>@color/gradientMostlyCloudy_c2</item>
+        <item>@color/gradientMostlyCloudy_c3</item>
+    </array>
+
+    <color name="gradientPartlyCloudy_c1">#5b64be</color>
+    <color name="gradientPartlyCloudy_c2">#6084df</color>
+    <color name="gradientPartlyCloudy_c3">#64a2ff</color>
+
+    <array name="gradient4">
+        <item>@color/gradientPartlyCloudy_c1</item>
+        <item>@color/gradientPartlyCloudy_c2</item>
+        <item>@color/gradientPartlyCloudy_c3</item>
+    </array>
+
+    <color name="gradientClear_c1">#6d4fbe</color>
+    <color name="gradientClear_c2">#6c56be</color>
+    <color name="gradientClear_c3">#a189f1</color>
+    <color name="grayIconTint">#727272</color>
+
+    <array name="gradient5">
+        <item>@color/gradientClear_c1</item>
+        <item>@color/gradientClear_c2</item>
+        <item>@color/gradientClear_c3</item>
+    </array>
+
+    <color name="gradient6_c1">#845EC2</color>
+    <color name="gradient6_c2">#D65DB1</color>
+    <color name="gradient6_c3">#FF6F91</color>
+
+    <array name="gradient6">
+        <item>@color/gradient6_c1</item>
+        <item>@color/gradient6_c2</item>
+        <item>@color/gradient6_c3</item>
+    </array>
+
+    <color name="gradient7_c1">#92E3A1</color>
+    <color name="gradient7_c2">#77543B</color>
+    <color name="gradient7_c3">#773b40</color>
+
+    <array name="gradient7">
+        <item>@color/gradient7_c1</item>
+        <item>@color/gradient7_c2</item>
+        <item>@color/gradient7_c3</item>
+    </array>
+
+    <color name="gradient8_c1">#9C27B0</color>
+    <color name="gradient8_c2">#465BDE</color>
+    <color name="gradient8_c3">#007BF1</color>
+
+    <array name="gradient8">
+        <item>@color/gradient8_c1</item>
+        <item>@color/gradient8_c2</item>
+        <item>@color/gradient8_c3</item>
+    </array>
+
+    <color name="gradient9_c1">#00A9A1</color>
+    <color name="gradient9_c2">#009FCA</color>
+    <color name="gradient9_c3">#0090E9</color>
+
+    <array name="gradient9">
+        <item>@color/gradient9_c1</item>
+        <item>@color/gradient9_c2</item>
+        <item>@color/gradient9_c3</item>
+    </array>
+
+    <color name="gradient10_c1">#8FF5F0</color>
+    <color name="gradient10_c2">#C00DBD</color>
+    <color name="gradient10_c3">#6a0dc0</color>
+
+    <array name="gradient10">
+        <item>@color/gradient10_c1</item>
+        <item>@color/gradient10_c2</item>
+        <item>@color/gradient10_c3</item>
+    </array>
+
+    <color name="gradient11_c1">#1BC5EF</color>
+    <color name="gradient11_c2">#318D0E</color>
+    <color name="gradient11_c3">#718d0e</color>
+
+    <array name="gradient11">
+        <item>@color/gradient11_c1</item>
+        <item>@color/gradient11_c2</item>
+        <item>@color/gradient11_c3</item>
+    </array>
+
+    <color name="gradient12_c1">#673AB7</color>
+    <color name="gradient12_c2">#B0A8B9</color>
+    <color name="gradient12_c3">#7C7484</color>
+
+    <array name="gradient12">
+        <item>@color/gradient12_c1</item>
+        <item>@color/gradient12_c2</item>
+        <item>@color/gradient12_c3</item>
+    </array>
+
+    <color name="gradient13_c1">#EF5138</color>
+    <color name="gradient13_c2">#AF0B09</color>
+    <color name="gradient13_c3">#7C7484</color>
+
+    <array name="gradient13">
+        <item>@color/gradient13_c1</item>
+        <item>@color/gradient13_c2</item>
+        <item>@color/gradient13_c3</item>
+    </array>
+
+    <color name="gradient14_c1">#673AB7</color>
+    <color name="gradient14_c2">#6DA1B6</color>
+    <color name="gradient14_c3">#E8D5B5</color>
+
+    <array name="gradient14">
+        <item>@color/gradient14_c1</item>
+        <item>@color/gradient14_c2</item>
+        <item>@color/gradient14_c3</item>
+    </array>
+
+    <color name="gradient15_c1">#83F016</color>
+    <color name="gradient15_c2">#C81829</color>
+    <color name="gradient15_c3">#c85f18</color>
+
+    <array name="gradient15">
+        <item>@color/gradient15_c1</item>
+        <item>@color/gradient15_c2</item>
+        <item>@color/gradient15_c3</item>
+    </array>
+
+    <color name="gradient16_c1">#C9DFC9</color>
+    <color name="gradient16_c2">#3ACC25</color>
+    <color name="gradient16_c3">#8ecc25</color>
+
+    <array name="gradient16">
+        <item>@color/gradient16_c1</item>
+        <item>@color/gradient16_c2</item>
+        <item>@color/gradient16_c3</item>
+    </array>
+
+    <color name="gradient17_c1">#4B4149</color>
+    <color name="gradient17_c2">#FD991D</color>
+    <color name="gradient17_c3">#fd291d</color>
+
+    <array name="gradient17">
+        <item>@color/gradient17_c1</item>
+        <item>@color/gradient17_c2</item>
+        <item>@color/gradient17_c3</item>
+    </array>
+
+    <color name="gradient18_c1">#4965C7</color>
+    <color name="gradient18_c2">#810C56</color>
+    <color name="gradient18_c3">#720c81</color>
+
+    <array name="gradient18">
+        <item>@color/gradient18_c1</item>
+        <item>@color/gradient18_c2</item>
+        <item>@color/gradient18_c3</item>
+    </array>
+
+    <color name="gradient19_c1">#C10000</color>
+    <color name="gradient19_c2">#AD00A1</color>
+    <color name="gradient19_c3">#673AB7</color>
+
+    <array name="gradient19">
+        <item>@color/gradient19_c1</item>
+        <item>@color/gradient19_c2</item>
+        <item>@color/gradient19_c3</item>
+    </array>
+
+    <color name="gradient20_c1">#C68FFF</color>
+    <color name="gradient20_c2">#64BAAA</color>
+    <color name="gradient20_c3">#005246</color>
+
+    <array name="gradient20">
+        <item>@color/gradient20_c1</item>
+        <item>@color/gradient20_c2</item>
+        <item>@color/gradient20_c3</item>
+    </array>
+
+    <color name="gradient21_c1">#F5B39A</color>
+    <color name="gradient21_c2">#C32497</color>
+    <color name="gradient21_c3">#c32447</color>
+
+    <array name="gradient21">
+        <item>@color/gradient21_c1</item>
+        <item>@color/gradient21_c2</item>
+        <item>@color/gradient21_c3</item>
+    </array>
+
+    <color name="gradient22_c1">#59B9CB</color>
+    <color name="gradient22_c2">#9A2107</color>
+    <color name="gradient22_c3">#9a6b07</color>
+
+    <array name="gradient22">
+        <item>@color/gradient22_c1</item>
+        <item>@color/gradient22_c2</item>
+        <item>@color/gradient22_c3</item>
+    </array>
+
+    <color name="gradient23_c1">#B1B4BE</color>
+    <color name="gradient23_c2">#3042EC</color>
+    <color name="gradient23_c3">#7c30ec</color>
+
+    <array name="gradient23">
+        <item>@color/gradient23_c1</item>
+        <item>@color/gradient23_c2</item>
+        <item>@color/gradient23_c3</item>
+    </array>
+
+    <color name="gradient24_c1">#FFF4A8</color>
+    <color name="gradient24_c2">#83BC9D</color>
+    <color name="gradient24_c3">#83bcba</color>
+
+    <array name="gradient24">
+        <item>@color/gradient24_c1</item>
+        <item>@color/gradient24_c2</item>
+        <item>@color/gradient24_c3</item>
+    </array>
+
+    <color name="gradient25_c1">#1846BA</color>
+    <color name="gradient25_c2">#E7B2F6</color>
+    <color name="gradient25_c3">#f6b2e3</color>
+
+    <array name="gradient25">
+        <item>@color/gradient25_c1</item>
+        <item>@color/gradient25_c2</item>
+        <item>@color/gradient25_c3</item>
+    </array>
+
+    <color name="gradient26_c1">#D47420</color>
+    <color name="gradient26_c2">#53AA67</color>
+    <color name="gradient26_c3">#53aa93</color>
+
+    <array name="gradient26">
+        <item>@color/gradient26_c1</item>
+        <item>@color/gradient26_c2</item>
+        <item>@color/gradient26_c3</item>
+    </array>
+
+    <color name="gradient27_c1">#3A732F</color>
+    <color name="gradient27_c2">#22C1B3</color>
+    <color name="gradient27_c3">#2280c1</color>
+
+    <array name="gradient27">
+        <item>@color/gradient27_c1</item>
+        <item>@color/gradient27_c2</item>
+        <item>@color/gradient27_c3</item>
+    </array>
+
+    <color name="gradient28_c1">#07D027</color>
+    <color name="gradient28_c2">#68B678</color>
+    <color name="gradient28_c3">#68b69f</color>
+
+    <array name="gradient28">
+        <item>@color/gradient28_c1</item>
+        <item>@color/gradient28_c2</item>
+        <item>@color/gradient28_c3</item>
+    </array>
+
+    <color name="gradient29_c1">#D31E63</color>
+    <color name="gradient29_c2">#20A165</color>
+    <color name="gradient29_c3">#209da1</color>
+
+    <array name="gradient29">
+        <item>@color/gradient29_c1</item>
+        <item>@color/gradient29_c2</item>
+        <item>@color/gradient29_c3</item>
+    </array>
+
+    <color name="gradient30_c1">#C6EEB4</color>
+    <color name="gradient30_c2">#AB68B9</color>
+    <color name="gradient30_c3">#b9689f</color>
+
+    <array name="gradient30">
+        <item>@color/gradient30_c1</item>
+        <item>@color/gradient30_c2</item>
+        <item>@color/gradient30_c3</item>
+    </array>
+
+    <color name="gradient31_c1">#6A6611</color>
+    <color name="gradient31_c2">#278F6E</color>
+    <color name="gradient31_c3">#277c8f</color>
+
+    <array name="gradient31">
+        <item>@color/gradient31_c1</item>
+        <item>@color/gradient31_c2</item>
+        <item>@color/gradient31_c3</item>
+    </array>
+
+    <color name="gradient32_c1">#9BC847</color>
+    <color name="gradient32_c2">#C3F738</color>
+    <color name="gradient32_c3">#64f738</color>
+
+    <array name="gradient32">
+        <item>@color/gradient32_c1</item>
+        <item>@color/gradient32_c2</item>
+        <item>@color/gradient32_c3</item>
+    </array>
+
+    <color name="gradient33_c1">#9BC847</color>
+    <color name="gradient33_c2">#C3F738</color>
+    <color name="gradient33_c3">#64f738</color>
+
+    <array name="gradient33">
+        <item>@color/gradient33_c1</item>
+        <item>@color/gradient33_c2</item>
+        <item>@color/gradient33_c3</item>
+    </array>
+
+    <color name="gradient34_c1">#DFFF6F</color>
+    <color name="gradient34_c2">#8D8E48</color>
+    <color name="gradient34_c3">#6a8e48</color>
+
+    <array name="gradient34">
+        <item>@color/gradient34_c1</item>
+        <item>@color/gradient34_c2</item>
+        <item>@color/gradient34_c3</item>
+    </array>
+
+    <color name="gradient35_c1">#D7260E</color>
+    <color name="gradient35_c2">#B159D4</color>
+    <color name="gradient35_c3">#d459ba</color>
+
+    <array name="gradient35">
+        <item>@color/gradient35_c1</item>
+        <item>@color/gradient35_c2</item>
+        <item>@color/gradient35_c3</item>
+    </array>
+
+    <color name="gradient36_c1">#96B9AF</color>
+    <color name="gradient36_c2">#AB066A</color>
+    <color name="gradient36_c3">#ab0618</color>
+
+    <array name="gradient36">
+        <item>@color/gradient36_c1</item>
+        <item>@color/gradient36_c2</item>
+        <item>@color/gradient36_c3</item>
+    </array>
+
+    <color name="gradient37_c1">#7B24DB</color>
+    <color name="gradient37_c2">#7393BB</color>
+    <color name="gradient37_c3">#7773bb</color>
+
+    <array name="gradient37">
+        <item>@color/gradient37_c1</item>
+        <item>@color/gradient37_c2</item>
+        <item>@color/gradient37_c3</item>
+    </array>
+
+    <color name="gradient38_c1">#314E2A</color>
+    <color name="gradient38_c2">#46B2EC</color>
+    <color name="gradient38_c3">#465fec</color>
+
+    <array name="gradient38">
+        <item>@color/gradient38_c1</item>
+        <item>@color/gradient38_c2</item>
+        <item>@color/gradient38_c3</item>
+    </array>
+
+    <color name="gradient39_c1">#FF6F43</color>
+    <color name="gradient39_c2">#02E489</color>
+    <color name="gradient39_c3">#02cee4</color>
+
+    <array name="gradient39">
+        <item>@color/gradient39_c1</item>
+        <item>@color/gradient39_c2</item>
+        <item>@color/gradient39_c3</item>
+    </array>
+
+    <color name="gradient40_c1">#AFCD77</color>
+    <color name="gradient40_c2">#3988CC</color>
+    <color name="gradient40_c3">#393ecc</color>
+
+    <array name="gradient40">
+        <item>@color/gradient40_c1</item>
+        <item>@color/gradient40_c2</item>
+        <item>@color/gradient40_c3</item>
+    </array>
+
+    <color name="gradient41_c1">#616F52</color>
+    <color name="gradient41_c2">#5DA455</color>
+    <color name="gradient41_c3">#55a475</color>
+
+    <array name="gradient41">
+        <item>@color/gradient41_c1</item>
+        <item>@color/gradient41_c2</item>
+        <item>@color/gradient41_c3</item>
+    </array>
+
+    <color name="gradient42_c1">#9FBC67</color>
+    <color name="gradient42_c2">#A5E188</color>
+    <color name="gradient42_c3">#88e198</color>
+
+    <array name="gradient42">
+        <item>@color/gradient42_c1</item>
+        <item>@color/gradient42_c2</item>
+        <item>@color/gradient42_c3</item>
+    </array>
+
+    <color name="gradient43_c1">#94173B</color>
+    <color name="gradient43_c2">#3ED837</color>
+    <color name="gradient43_c3">#37d881</color>
+
+    <array name="gradient43">
+        <item>@color/gradient43_c1</item>
+        <item>@color/gradient43_c2</item>
+        <item>@color/gradient43_c3</item>
+    </array>
+
+    <color name="gradient44_c1">#7BA94E</color>
+    <color name="gradient44_c2">#B80E4F</color>
+    <color name="gradient44_c3">#b8220e</color>
+
+    <array name="gradient44">
+        <item>@color/gradient44_c1</item>
+        <item>@color/gradient44_c2</item>
+        <item>@color/gradient44_c3</item>
+    </array>
+
+    <color name="gradient45_c1">#C3B52A</color>
+    <color name="gradient45_c2">#0672B6</color>
+    <color name="gradient45_c3">#061ab6</color>
+
+    <array name="gradient45">
+        <item>@color/gradient45_c1</item>
+        <item>@color/gradient45_c2</item>
+        <item>@color/gradient45_c3</item>
+    </array>
+
+    <color name="gradient46_c1">#D06000</color>
+    <color name="gradient46_c2">#849496</color>
+    <color name="gradient46_c3">#848b96</color>
+
+    <array name="gradient46">
+        <item>@color/gradient46_c1</item>
+        <item>@color/gradient46_c2</item>
+        <item>@color/gradient46_c3</item>
+    </array>
+
+    <color name="gradient47_c1">#39AF1D</color>
+    <color name="gradient47_c2">#4C4381</color>
+    <color name="gradient47_c3">#6b4381</color>
+
+    <array name="gradient47">
+        <item>@color/gradient47_c1</item>
+        <item>@color/gradient47_c2</item>
+        <item>@color/gradient47_c3</item>
+    </array>
+
+    <color name="gradient48_c1">#D2CDA2</color>
+    <color name="gradient48_c2">#1F242A</color>
+    <color name="gradient48_c3">#201f2a</color>
+
+    <array name="gradient48">
+        <item>@color/gradient48_c1</item>
+        <item>@color/gradient48_c2</item>
+        <item>@color/gradient48_c3</item>
+    </array>
+
+    <color name="gradient49_c1">#2B4058</color>
+    <color name="gradient49_c2">#5735A1</color>
+    <color name="gradient49_c3">#8d35a1</color>
+
+    <array name="gradient49">
+        <item>@color/gradient49_c1</item>
+        <item>@color/gradient49_c2</item>
+        <item>@color/gradient49_c3</item>
+    </array>
+
+    <color name="gradient50_c1">#6E2FFB</color>
+    <color name="gradient50_c2">#5E5F2A</color>
+    <color name="gradient50_c3">#445f2a</color>
+
+    <array name="gradient50">
+        <item>@color/gradient50_c1</item>
+        <item>@color/gradient50_c2</item>
+        <item>@color/gradient50_c3</item>
+    </array>
+
+    <color name="gradient51_c1">#3A45C8</color>
+    <color name="gradient51_c2">#D2814D</color>
+    <color name="gradient51_c3">#d2c44d</color>
+
+    <array name="gradient51">
+        <item>@color/gradient51_c1</item>
+        <item>@color/gradient51_c2</item>
+        <item>@color/gradient51_c3</item>
+    </array>
+
+    <color name="gradient52_c1">#C3FCB7</color>
+    <color name="gradient52_c2">#C0E093</color>
+    <color name="gradient52_c3">#9ae093</color>
+
+    <array name="gradient52">
+        <item>@color/gradient52_c1</item>
+        <item>@color/gradient52_c2</item>
+        <item>@color/gradient52_c3</item>
+    </array>
+
+    <color name="gradient53_c1">#FAD388</color>
+    <color name="gradient53_c2">#8EDEEC</color>
+    <color name="gradient53_c3">#8eafec</color>
+
+    <array name="gradient53">
+        <item>@color/gradient53_c1</item>
+        <item>@color/gradient53_c2</item>
+        <item>@color/gradient53_c3</item>
+    </array>
+
+    <color name="gradient54_c1">#6FB4F3</color>
+    <color name="gradient54_c2">#5BCE97</color>
+    <color name="gradient54_c3">#5bccce</color>
+
+    <array name="gradient54">
+        <item>@color/gradient54_c1</item>
+        <item>@color/gradient54_c2</item>
+        <item>@color/gradient54_c3</item>
+    </array>
+
+    <color name="gradient55_c1">#270989</color>
+    <color name="gradient55_c2">#DFEA30</color>
+    <color name="gradient55_c3">#82ea30</color>
+
+    <array name="gradient55">
+        <item>@color/gradient55_c1</item>
+        <item>@color/gradient55_c2</item>
+        <item>@color/gradient55_c3</item>
+    </array>
+
+    <color name="gradient56_c1">#AEB415</color>
+    <color name="gradient56_c2">#1F334B</color>
+    <color name="gradient56_c3">#211f4b</color>
+
+    <array name="gradient56">
+        <item>@color/gradient56_c1</item>
+        <item>@color/gradient56_c2</item>
+        <item>@color/gradient56_c3</item>
+    </array>
+
+    <color name="gradient57_c1">#DCB743</color>
+    <color name="gradient57_c2">#E5D19C</color>
+    <color name="gradient57_c3">#d5e59c</color>
+
+    <array name="gradient57">
+        <item>@color/gradient57_c1</item>
+        <item>@color/gradient57_c2</item>
+        <item>@color/gradient57_c3</item>
+    </array>
+
+    <color name="gradient58_c1">#9984AC</color>
+    <color name="gradient58_c2">#AE2A69</color>
+    <color name="gradient58_c3">#ae2d2a</color>
+
+    <array name="gradient58">
+        <item>@color/gradient58_c1</item>
+        <item>@color/gradient58_c2</item>
+        <item>@color/gradient58_c3</item>
+    </array>
+
+    <color name="gradient59_c1">#7CF843</color>
+    <color name="gradient59_c2">#435FE0</color>
+    <color name="gradient59_c3">#7643e0</color>
+
+    <array name="gradient59">
+        <item>@color/gradient59_c1</item>
+        <item>@color/gradient59_c2</item>
+        <item>@color/gradient59_c3</item>
+    </array>
+
+    <color name="gradient60_c1">#232674</color>
+    <color name="gradient60_c2">#2F9682</color>
+    <color name="gradient60_c3">#2f7796</color>
+
+    <array name="gradient60">
+        <item>@color/gradient60_c1</item>
+        <item>@color/gradient60_c2</item>
+        <item>@color/gradient60_c3</item>
+    </array>
+
+    <color name="gradient61_c1">#42D48F</color>
+    <color name="gradient61_c2">#F965FB</color>
+    <color name="gradient61_c3">#fb65b2</color>
+
+    <array name="gradient61">
+        <item>@color/gradient61_c1</item>
+        <item>@color/gradient61_c2</item>
+        <item>@color/gradient61_c3</item>
+    </array>
+
+    <color name="gradient62_c1">#CD1FD6</color>
+    <color name="gradient62_c2">#9A0E83</color>
+    <color name="gradient62_c3">#6b0e9a</color>
+
+    <array name="gradient62">
+        <item>@color/gradient62_c1</item>
+        <item>@color/gradient62_c2</item>
+        <item>@color/gradient62_c3</item>
+    </array>
+
+    <color name="gradient63_c1">#B615D8</color>
+    <color name="gradient63_c2">#A08919</color>
+    <color name="gradient63_c3">#74a019</color>
+
+    <array name="gradient63">
+        <item>@color/gradient63_c1</item>
+        <item>@color/gradient63_c2</item>
+        <item>@color/gradient63_c3</item>
+    </array>
+
+    <color name="gradient64_c1">#40d6ea</color>
+    <color name="gradient64_c2">#2F5DC7</color>
+    <color name="gradient64_c3">#4081EA</color>
+
+    <array name="gradient64">
+        <item>@color/gradient64_c1</item>
+        <item>@color/gradient64_c2</item>
+        <item>@color/gradient64_c3</item>
+    </array>
+
+    <color name="gradient65_c1">#3A5108</color>
+    <color name="gradient65_c2">#c3b9c8</color>
+    <color name="gradient65_c3">#bcb9c8</color>
+
+    <array name="gradient65">
+        <item>@color/gradient65_c1</item>
+        <item>@color/gradient65_c2</item>
+        <item>@color/gradient65_c3</item>
+    </array>
+
+    <color name="gradient66_c1">#E7EA5A</color>
+    <color name="gradient66_c2">#FCC121</color>
+    <color name="gradient66_c3">#cafc21</color>
+
+    <array name="gradient66">
+        <item>@color/gradient66_c1</item>
+        <item>@color/gradient66_c2</item>
+        <item>@color/gradient66_c3</item>
+    </array>
+
+    <color name="gradient67_c1">#5ACF23</color>
+    <color name="gradient67_c2">#72FE29</color>
+    <color name="gradient67_c3">#29fe4b</color>
+
+    <array name="gradient67">
+        <item>@color/gradient67_c1</item>
+        <item>@color/gradient67_c2</item>
+        <item>@color/gradient67_c3</item>
+    </array>
+
+    <color name="gradient68_c1">#D345E2</color>
+    <color name="gradient68_c2">#1CF6D9</color>
+    <color name="gradient68_c3">#1ca6f6</color>
+
+    <array name="gradient68">
+        <item>@color/gradient68_c1</item>
+        <item>@color/gradient68_c2</item>
+        <item>@color/gradient68_c3</item>
+    </array>
+
+    <color name="gradient69_c1">#118B22</color>
+    <color name="gradient69_c2">#e5b0c0</color>
+    <color name="gradient69_c3">#e5bbb0</color>
+
+    <array name="gradient69">
+        <item>@color/gradient69_c1</item>
+        <item>@color/gradient69_c2</item>
+        <item>@color/gradient69_c3</item>
+    </array>
+
+    <color name="gradient70_c1">#440292</color>
+    <color name="gradient70_c2">#89E225</color>
+    <color name="gradient70_c3">#2be225</color>
+
+    <array name="gradient70">
+        <item>@color/gradient70_c1</item>
+        <item>@color/gradient70_c2</item>
+        <item>@color/gradient70_c3</item>
+    </array>
+
+    <color name="gradient71_c1">#A418B5</color>
+    <color name="gradient71_c2">#BC04EE</color>
+    <color name="gradient71_c3">#ee04ab</color>
+
+    <array name="gradient71">
+        <item>@color/gradient71_c1</item>
+        <item>@color/gradient71_c2</item>
+        <item>@color/gradient71_c3</item>
+    </array>
+
+    <color name="gradient72_c1">#1EB2D0</color>
+    <color name="gradient72_c2">#1D7BCC</color>
+    <color name="gradient72_c3">#1d23cc</color>
+
+    <array name="gradient72">
+        <item>@color/gradient72_c1</item>
+        <item>@color/gradient72_c2</item>
+        <item>@color/gradient72_c3</item>
+    </array>
+
+    <color name="gradient73_c1">#7AA1A7</color>
+    <color name="gradient73_c2">#7A68A1</color>
+    <color name="gradient73_c3">#9768a1</color>
+
+    <array name="gradient73">
+        <item>@color/gradient73_c1</item>
+        <item>@color/gradient73_c2</item>
+        <item>@color/gradient73_c3</item>
+    </array>
+
+    <color name="gradient74_c1">#88841A</color>
+    <color name="gradient74_c2">#27B092</color>
+    <color name="gradient74_c3">#278ab0</color>
+
+    <array name="gradient74">
+        <item>@color/gradient74_c1</item>
+        <item>@color/gradient74_c2</item>
+        <item>@color/gradient74_c3</item>
+    </array>
+
+    <color name="gradient75_c1">#759C9E</color>
+    <color name="gradient75_c2">#DA5F34</color>
+    <color name="gradient75_c3">#dab234</color>
+
+    <array name="gradient75">
+        <item>@color/gradient75_c1</item>
+        <item>@color/gradient75_c2</item>
+        <item>@color/gradient75_c3</item>
+    </array>
+
+    <color name="gradient76_c1">#F68E46</color>
+    <color name="gradient76_c2">#ED3F5F</color>
+    <color name="gradient76_c3">#ed763f</color>
+
+    <array name="gradient76">
+        <item>@color/gradient76_c1</item>
+        <item>@color/gradient76_c2</item>
+        <item>@color/gradient76_c3</item>
+    </array>
+
+    <color name="gradient77_c1">#F68E46</color>
+    <color name="gradient77_c2">#ED3F5F</color>
+    <color name="gradient77_c3">#ed763f</color>
+
+    <array name="gradient77">
+        <item>@color/gradient77_c1</item>
+        <item>@color/gradient77_c2</item>
+        <item>@color/gradient77_c3</item>
+    </array>
+
+    <color name="gradient78_c1">#9DC8C8</color>
+    <color name="gradient78_c2">#58C9B9</color>
+    <color name="gradient78_c3">#519D9E</color>
+
+    <array name="gradient78">
+        <item>@color/gradient78_c1</item>
+        <item>@color/gradient78_c2</item>
+        <item>@color/gradient78_c3</item>
+    </array>
+
+    <color name="gradient79_c1">#FFEEE4</color>
+    <color name="gradient79_c2">#F17F42</color>
+    <color name="gradient79_c3">#CE6D39</color>
+
+    <array name="gradient79">
+        <item>@color/gradient79_c1</item>
+        <item>@color/gradient79_c2</item>
+        <item>@color/gradient79_c3</item>
+    </array>
+
+    <color name="gradient80_c1">#30A9DE</color>
+    <color name="gradient80_c2">#EFDC05</color>
+    <color name="gradient80_c3">#E53A40</color>
+
+    <array name="gradient80">
+        <item>@color/gradient80_c1</item>
+        <item>@color/gradient80_c2</item>
+        <item>@color/gradient80_c3</item>
+    </array>
+
+    <color name="gradient81_c1">#A593E0</color>
+    <color name="gradient81_c2">#E0E3DA</color>
+    <color name="gradient81_c3">#FFFFF3</color>
+
+    <array name="gradient81">
+        <item>@color/gradient81_c1</item>
+        <item>@color/gradient81_c2</item>
+        <item>@color/gradient81_c3</item>
+    </array>
+
+    <color name="gradient82_c1">#F6B352</color>
+    <color name="gradient82_c2">#F68657</color>
+    <color name="gradient82_c3">#383A3F</color>
+
+    <array name="gradient82">
+        <item>@color/gradient82_c1</item>
+        <item>@color/gradient82_c2</item>
+        <item>@color/gradient82_c3</item>
+    </array>
+
+    <color name="gradient83_c1">#D7FFF1</color>
+    <color name="gradient83_c2">#8CD790</color>
+    <color name="gradient83_c3">#77AF9C</color>
+
+    <array name="gradient83">
+        <item>@color/gradient83_c1</item>
+        <item>@color/gradient83_c2</item>
+        <item>@color/gradient83_c3</item>
+    </array>
+
+    <color name="gradient84_c1">#D499B9</color>
+    <color name="gradient84_c2">#9055A2</color>
+    <color name="gradient84_c3">#2E294E</color>
+
+    <array name="gradient84">
+        <item>@color/gradient84_c1</item>
+        <item>@color/gradient84_c2</item>
+        <item>@color/gradient84_c3</item>
+    </array>
+
+    <color name="gradient85_c1">#FBFFB9</color>
+    <color name="gradient85_c2">#FDD692</color>
+    <color name="gradient85_c3">#EC7357</color>
+
+    <array name="gradient85">
+        <item>@color/gradient85_c1</item>
+        <item>@color/gradient85_c2</item>
+        <item>@color/gradient85_c3</item>
+    </array>
+
+    <color name="gradient86_c1">#C5E99B</color>
+    <color name="gradient86_c2">#8FBC94</color>
+    <color name="gradient86_c3">#548687</color>
+
+    <array name="gradient86">
+        <item>@color/gradient86_c1</item>
+        <item>@color/gradient86_c2</item>
+        <item>@color/gradient86_c3</item>
+    </array>
+
+    <color name="gradient87_c1">#E71D36</color>
+    <color name="gradient87_c2">#2EC4B6</color>
+    <color name="gradient87_c3">#EFFFE9</color>
+
+    <array name="gradient87">
+        <item>@color/gradient87_c1</item>
+        <item>@color/gradient87_c2</item>
+        <item>@color/gradient87_c3</item>
+    </array>
+
+    <color name="gradient88_c1">#DE6449</color>
+    <color name="gradient88_c2">#791E94</color>
+    <color name="gradient88_c3">#FFFFF2</color>
+
+    <array name="gradient88">
+        <item>@color/gradient88_c1</item>
+        <item>@color/gradient88_c2</item>
+        <item>@color/gradient88_c3</item>
+    </array>
+
+    <color name="gradient89_c1">#5CAB7D</color>
+    <color name="gradient89_c2">#5A9367</color>
+    <color name="gradient89_c3">#44633F</color>
+
+    <array name="gradient89">
+        <item>@color/gradient89_c1</item>
+        <item>@color/gradient89_c2</item>
+        <item>@color/gradient89_c3</item>
+    </array>
+
+    <color name="gradient90_c1">#FFBC42</color>
+    <color name="gradient90_c2">#D81159</color>
+    <color name="gradient90_c3">#8F2D56</color>
+
+    <array name="gradient90">
+        <item>@color/gradient90_c1</item>
+        <item>@color/gradient90_c2</item>
+        <item>@color/gradient90_c3</item>
+    </array>
+
+    <color name="gradient91_c1">#E3E36A</color>
+    <color name="gradient91_c2">#C16200</color>
+    <color name="gradient91_c3">#881600</color>
+
+    <array name="gradient91">
+        <item>@color/gradient91_c1</item>
+        <item>@color/gradient91_c2</item>
+        <item>@color/gradient91_c3</item>
+    </array>
+
+    <color name="gradient92_c1">#4FB0C6</color>
+    <color name="gradient92_c2">#4F86C6</color>
+    <color name="gradient92_c3">#6C49B8</color>
+
+    <array name="gradient92">
+        <item>@color/gradient92_c1</item>
+        <item>@color/gradient92_c2</item>
+        <item>@color/gradient92_c3</item>
+    </array>
+
+    <color name="gradient93_c1">#EE7785</color>
+    <color name="gradient93_c2">#C89EC4</color>
+    <color name="gradient93_c3">#84B1ED</color>
+
+    <array name="gradient93">
+        <item>@color/gradient93_c1</item>
+        <item>@color/gradient93_c2</item>
+        <item>@color/gradient93_c3</item>
+    </array>
+
+    <color name="gradient94_c1">#F16B6F</color>
+    <color name="gradient94_c2">#C5C6B6</color>
+    <color name="gradient94_c3">#AACD6E</color>
+
+    <array name="gradient94">
+        <item>@color/gradient94_c1</item>
+        <item>@color/gradient94_c2</item>
+        <item>@color/gradient94_c3</item>
+    </array>
+
+    <color name="gradient95_c1">#D4DFE6</color>
+    <color name="gradient95_c2">#8EC0E4</color>
+    <color name="gradient95_c3">#CADBE9</color>
+
+    <array name="gradient95">
+        <item>@color/gradient95_c1</item>
+        <item>@color/gradient95_c2</item>
+        <item>@color/gradient95_c3</item>
+    </array>
+
+    <color name="gradient96_c1">#FDEB71</color>
+    <color name="gradient96_c2">#F8D800</color>
+    <color name="gradient96_c3">#9cf800</color>
+
+    <array name="gradient96">
+        <item>@color/gradient96_c1</item>
+        <item>@color/gradient96_c2</item>
+        <item>@color/gradient96_c3</item>
+    </array>
+
+    <color name="gradient97_c1">#ABDCFF</color>
+    <color name="gradient97_c2">#0396FF</color>
+    <color name="gradient97_c3">#0318ff</color>
+
+    <array name="gradient97">
+        <item>@color/gradient97_c1</item>
+        <item>@color/gradient97_c2</item>
+        <item>@color/gradient97_c3</item>
+    </array>
+
+    <color name="gradient98_c1">#FEB692</color>
+    <color name="gradient98_c2">#EA5455</color>
+    <color name="gradient98_c3">#ea9e54</color>
+
+    <array name="gradient98">
+        <item>@color/gradient98_c1</item>
+        <item>@color/gradient98_c2</item>
+        <item>@color/gradient98_c3</item>
+    </array>
+
+    <color name="gradient99_c1">#CE9FFC</color>
+    <color name="gradient99_c2">#7367F0</color>
+    <color name="gradient99_c3">#b867f0</color>
+
+    <array name="gradient99">
+        <item>@color/gradient99_c1</item>
+        <item>@color/gradient99_c2</item>
+        <item>@color/gradient99_c3</item>
+    </array>
+
+    <color name="gradient100_c1">#90F7EC</color>
+    <color name="gradient100_c2">#32CCBC</color>
+    <color name="gradient100_c3">#328fcc</color>
+
+    <array name="gradient100">
+        <item>@color/gradient100_c1</item>
+        <item>@color/gradient100_c2</item>
+        <item>@color/gradient100_c3</item>
+    </array>
+
+    <color name="gradient101_c1">#FFF6B7</color>
+    <color name="gradient101_c2">#F6416C</color>
+    <color name="gradient101_c3">#f641c7</color>
+
+    <array name="gradient101">
+        <item>@color/gradient101_c1</item>
+        <item>@color/gradient101_c2</item>
+        <item>@color/gradient101_c3</item>
+    </array>
+
+    <color name="gradient102_c1">#81FBB8</color>
+    <color name="gradient102_c2">#28C76F</color>
+    <color name="gradient102_c3">#28c7bf</color>
+
+    <array name="gradient102">
+        <item>@color/gradient102_c1</item>
+        <item>@color/gradient102_c2</item>
+        <item>@color/gradient102_c3</item>
+    </array>
+
+    <color name="gradient103_c1">#E2B0FF</color>
+    <color name="gradient103_c2">#9F44D3</color>
+    <color name="gradient103_c3">#5844d3</color>
+
+    <array name="gradient103">
+        <item>@color/gradient103_c1</item>
+        <item>@color/gradient103_c2</item>
+        <item>@color/gradient103_c3</item>
+    </array>
+
+    <color name="gradient104_c1">#F97794</color>
+    <color name="gradient104_c2">#623AA2</color>
+    <color name="gradient104_c3">#3a46a2</color>
+
+    <array name="gradient104">
+        <item>@color/gradient104_c1</item>
+        <item>@color/gradient104_c2</item>
+        <item>@color/gradient104_c3</item>
+    </array>
+
+    <color name="gradient105_c1">#FCCF31</color>
+    <color name="gradient105_c2">#F55555</color>
+    <color name="gradient105_c3">#f5a555</color>
+
+    <array name="gradient105">
+        <item>@color/gradient105_c1</item>
+        <item>@color/gradient105_c2</item>
+        <item>@color/gradient105_c3</item>
+    </array>
+
+    <color name="gradient106_c1">#F761A1</color>
+    <color name="gradient106_c2">#8C1BAB</color>
+    <color name="gradient106_c3">#ab1b82</color>
+
+    <array name="gradient106">
+        <item>@color/gradient106_c1</item>
+        <item>@color/gradient106_c2</item>
+        <item>@color/gradient106_c3</item>
+    </array>
+
+    <color name="gradient107_c1">#43CBFF</color>
+    <color name="gradient107_c2">#9708CC</color>
+    <color name="gradient107_c3">#3508cc</color>
+
+    <array name="gradient107">
+        <item>@color/gradient107_c1</item>
+        <item>@color/gradient107_c2</item>
+        <item>@color/gradient107_c3</item>
+    </array>
+
+    <color name="gradient108_c1">#5EFCE8</color>
+    <color name="gradient108_c2">#736EFE</color>
+    <color name="gradient108_c3">#6eb1fe</color>
+
+    <array name="gradient108">
+        <item>@color/gradient108_c1</item>
+        <item>@color/gradient108_c2</item>
+        <item>@color/gradient108_c3</item>
+    </array>
+
+    <color name="gradient109_c1">#FAD7A1</color>
+    <color name="gradient109_c2">#E96D71</color>
+    <color name="gradient109_c3">#e9a76d</color>
+
+    <array name="gradient109">
+        <item>@color/gradient109_c1</item>
+        <item>@color/gradient109_c2</item>
+        <item>@color/gradient109_c3</item>
+    </array>
+
+    <color name="gradient110_c1">#FFD26F</color>
+    <color name="gradient110_c2">#3677FF</color>
+    <color name="gradient110_c3">#36dcff</color>
+
+    <array name="gradient110">
+        <item>@color/gradient110_c1</item>
+        <item>@color/gradient110_c2</item>
+        <item>@color/gradient110_c3</item>
+    </array>
+
+    <color name="gradient111_c1">#A0FE65</color>
+    <color name="gradient111_c2">#FA016D</color>
+    <color name="gradient111_c3">#fa1101</color>
+
+    <array name="gradient111">
+        <item>@color/gradient111_c1</item>
+        <item>@color/gradient111_c2</item>
+        <item>@color/gradient111_c3</item>
+    </array>
+
+    <color name="gradient112_c1">#FFDB01</color>
+    <color name="gradient112_c2">#0E197D</color>
+    <color name="gradient112_c3">#3a0e7d</color>
+
+    <array name="gradient112">
+        <item>@color/gradient112_c1</item>
+        <item>@color/gradient112_c2</item>
+        <item>@color/gradient112_c3</item>
+    </array>
+
+    <color name="gradient113_c1">#FEC163</color>
+    <color name="gradient113_c2">#DE4313</color>
+    <color name="gradient113_c3">#dea913</color>
+
+    <array name="gradient113">
+        <item>@color/gradient113_c1</item>
+        <item>@color/gradient113_c2</item>
+        <item>@color/gradient113_c3</item>
+    </array>
+
+    <color name="gradient114_c1">#92FFC0</color>
+    <color name="gradient114_c2">#002661</color>
+    <color name="gradient114_c3">#0b0061</color>
+
+    <array name="gradient114">
+        <item>@color/gradient114_c1</item>
+        <item>@color/gradient114_c2</item>
+        <item>@color/gradient114_c3</item>
+    </array>
+
+    <color name="gradient115_c1">#EEAD92</color>
+    <color name="gradient115_c2">#6018DC</color>
+    <color name="gradient115_c3">#c218dc</color>
+
+    <array name="gradient115">
+        <item>@color/gradient115_c1</item>
+        <item>@color/gradient115_c2</item>
+        <item>@color/gradient115_c3</item>
+    </array>
+
+    <color name="gradient116_c1">#F6CEEC</color>
+    <color name="gradient116_c2">#D939CD</color>
+    <color name="gradient116_c3">#d9397d</color>
+
+    <array name="gradient116">
+        <item>@color/gradient116_c1</item>
+        <item>@color/gradient116_c2</item>
+        <item>@color/gradient116_c3</item>
+    </array>
+
+    <color name="gradient117_c1">#F1CA74</color>
+    <color name="gradient117_c2">#A64DB6</color>
+    <color name="gradient117_c3">#b64d92</color>
+
+    <array name="gradient117">
+        <item>@color/gradient117_c1</item>
+        <item>@color/gradient117_c2</item>
+        <item>@color/gradient117_c3</item>
+    </array>
+
+    <color name="gradient118_c1">#E8D07A</color>
+    <color name="gradient118_c2">#5312D6</color>
+    <color name="gradient118_c3">#b512d6</color>
+
+    <array name="gradient118">
+        <item>@color/gradient118_c1</item>
+        <item>@color/gradient118_c2</item>
+        <item>@color/gradient118_c3</item>
+    </array>
+
+    <color name="gradient119_c1">#EECE13</color>
+    <color name="gradient119_c2">#B210FF</color>
+    <color name="gradient119_c3">#3a10ff</color>
+
+    <array name="gradient119">
+        <item>@color/gradient119_c1</item>
+        <item>@color/gradient119_c2</item>
+        <item>@color/gradient119_c3</item>
+    </array>
+
+    <color name="gradient120_c1">#79F1A4</color>
+    <color name="gradient120_c2">#0E5CAD</color>
+    <color name="gradient120_c3">#0eacad</color>
+
+    <array name="gradient120">
+        <item>@color/gradient120_c1</item>
+        <item>@color/gradient120_c2</item>
+        <item>@color/gradient120_c3</item>
+    </array>
+
+    <color name="gradient121_c1">#FDD819</color>
+    <color name="gradient121_c2">#E80505</color>
+    <color name="gradient121_c3">#e80577</color>
+
+    <array name="gradient121">
+        <item>@color/gradient121_c1</item>
+        <item>@color/gradient121_c2</item>
+        <item>@color/gradient121_c3</item>
+    </array>
+
+    <color name="gradient122_c1">#FFF3B0</color>
+    <color name="gradient122_c2">#CA26FF</color>
+    <color name="gradient122_c3">#ff26c8</color>
+
+    <array name="gradient122">
+        <item>@color/gradient122_c1</item>
+        <item>@color/gradient122_c2</item>
+        <item>@color/gradient122_c3</item>
+    </array>
+
+    <color name="gradient123_c1">#FFF5C3</color>
+    <color name="gradient123_c2">#9452A5</color>
+    <color name="gradient123_c3">#a5528d</color>
+
+    <array name="gradient123">
+        <item>@color/gradient123_c1</item>
+        <item>@color/gradient123_c2</item>
+        <item>@color/gradient123_c3</item>
+    </array>
+
+    <color name="gradient124_c1">#F05F57</color>
+    <color name="gradient124_c2">#360940</color>
+    <color name="gradient124_c3">#40092e</color>
+
+    <array name="gradient124">
+        <item>@color/gradient124_c1</item>
+        <item>@color/gradient124_c2</item>
+        <item>@color/gradient124_c3</item>
+    </array>
+
+    <color name="gradient125_c1">#2AFADF</color>
+    <color name="gradient125_c2">#4C83FF</color>
+    <color name="gradient125_c3">#4cddff</color>
+
+    <array name="gradient125">
+        <item>@color/gradient125_c1</item>
+        <item>@color/gradient125_c2</item>
+        <item>@color/gradient125_c3</item>
+    </array>
+
+    <color name="gradient126_c1">#FFF886</color>
+    <color name="gradient126_c2">#F072B6</color>
+    <color name="gradient126_c3">#eb72f0</color>
+
+    <array name="gradient126">
+        <item>@color/gradient126_c1</item>
+        <item>@color/gradient126_c2</item>
+        <item>@color/gradient126_c3</item>
+    </array>
+
+    <color name="gradient127_c1">#97ABFF</color>
+    <color name="gradient127_c2">#123597</color>
+    <color name="gradient127_c3">#311297</color>
+
+    <array name="gradient127">
+        <item>@color/gradient127_c1</item>
+        <item>@color/gradient127_c2</item>
+        <item>@color/gradient127_c3</item>
+    </array>
+
+    <color name="gradient128_c1">#F5CBFF</color>
+    <color name="gradient128_c2">#C346C2</color>
+    <color name="gradient128_c3">#c34684</color>
+
+    <array name="gradient128">
+        <item>@color/gradient128_c1</item>
+        <item>@color/gradient128_c2</item>
+        <item>@color/gradient128_c3</item>
+    </array>
+
+    <color name="gradient129_c1">#FFF720</color>
+    <color name="gradient129_c2">#3CD500</color>
+    <color name="gradient129_c3">#a7d500</color>
+
+    <array name="gradient129">
+        <item>@color/gradient129_c1</item>
+        <item>@color/gradient129_c2</item>
+        <item>@color/gradient129_c3</item>
+    </array>
+
+    <color name="gradient130_c1">#FF6FD8</color>
+    <color name="gradient130_c2">#3813C2</color>
+    <color name="gradient130_c3">#9013c2</color>
+
+    <array name="gradient130">
+        <item>@color/gradient130_c1</item>
+        <item>@color/gradient130_c2</item>
+        <item>@color/gradient130_c3</item>
+    </array>
+
+    <color name="gradient131_c1">#EE9AE5</color>
+    <color name="gradient131_c2">#5961F9</color>
+    <color name="gradient131_c3">#a159f9</color>
+
+    <array name="gradient131">
+        <item>@color/gradient131_c1</item>
+        <item>@color/gradient131_c2</item>
+        <item>@color/gradient131_c3</item>
+    </array>
+
+    <color name="gradient132_c1">#FFD3A5</color>
+    <color name="gradient132_c2">#FD6585</color>
+    <color name="gradient132_c3">#fd65d1</color>
+
+    <array name="gradient132">
+        <item>@color/gradient132_c1</item>
+        <item>@color/gradient132_c2</item>
+        <item>@color/gradient132_c3</item>
+    </array>
+
+    <color name="gradient133_c1">#C2FFD8</color>
+    <color name="gradient133_c2">#465EFB</color>
+    <color name="gradient133_c3">#46b9fb</color>
+
+    <array name="gradient133">
+        <item>@color/gradient133_c1</item>
+        <item>@color/gradient133_c2</item>
+        <item>@color/gradient133_c3</item>
+    </array>
+
+    <color name="gradient134_c1">#FD6585</color>
+    <color name="gradient134_c2">#0D25B9</color>
+    <color name="gradient134_c3">#4b0db9</color>
+
+    <array name="gradient134">
+        <item>@color/gradient134_c1</item>
+        <item>@color/gradient134_c2</item>
+        <item>@color/gradient134_c3</item>
+    </array>
+
+    <color name="gradient135_c1">#FD6E6A</color>
+    <color name="gradient135_c2">#FFC600</color>
+    <color name="gradient135_c3">#ff4700</color>
+
+    <array name="gradient135">
+        <item>@color/gradient135_c1</item>
+        <item>@color/gradient135_c2</item>
+        <item>@color/gradient135_c3</item>
+    </array>
+
+    <color name="gradient136_c1">#65FDF0</color>
+    <color name="gradient136_c2">#1D6FA3</color>
+    <color name="gradient136_c3">#1da394</color>
+
+    <array name="gradient136">
+        <item>@color/gradient136_c1</item>
+        <item>@color/gradient136_c2</item>
+        <item>@color/gradient136_c3</item>
+    </array>
+
+    <color name="gradient137_c1">#6B73FF</color>
+    <color name="gradient137_c2">#000DFF</color>
+    <color name="gradient137_c3">#7300ff</color>
+
+    <array name="gradient137">
+        <item>@color/gradient137_c1</item>
+        <item>@color/gradient137_c2</item>
+        <item>@color/gradient137_c3</item>
+    </array>
+
+    <color name="gradient138_c1">#FF7AF5</color>
+    <color name="gradient138_c2">#513162</color>
+    <color name="gradient138_c3">#393162</color>
+
+    <array name="gradient138">
+        <item>@color/gradient138_c1</item>
+        <item>@color/gradient138_c2</item>
+        <item>@color/gradient138_c3</item>
+    </array>
+
+    <color name="gradient139_c1">#F0FF00</color>
+    <color name="gradient139_c2">#58CFFB</color>
+    <color name="gradient139_c3">#587efb</color>
+
+    <array name="gradient139">
+        <item>@color/gradient139_c1</item>
+        <item>@color/gradient139_c2</item>
+        <item>@color/gradient139_c3</item>
+    </array>
+
+    <color name="gradient140_c1">#FFE985</color>
+    <color name="gradient140_c2">#FA742B</color>
+    <color name="gradient140_c3">#fa2b4a</color>
+
+    <array name="gradient140">
+        <item>@color/gradient140_c1</item>
+        <item>@color/gradient140_c2</item>
+        <item>@color/gradient140_c3</item>
+    </array>
+
+    <color name="gradient141_c1">#FFA6B7</color>
+    <color name="gradient141_c2">#1E2AD2</color>
+    <color name="gradient141_c3">#1e84d2</color>
+
+    <array name="gradient141">
+        <item>@color/gradient141_c1</item>
+        <item>@color/gradient141_c2</item>
+        <item>@color/gradient141_c3</item>
+    </array>
+
+    <color name="gradient142_c1">#FFAA85</color>
+    <color name="gradient142_c2">#B3315F</color>
+    <color name="gradient142_c3">#b34431</color>
+
+    <array name="gradient142">
+        <item>@color/gradient142_c1</item>
+        <item>@color/gradient142_c2</item>
+        <item>@color/gradient142_c3</item>
+    </array>
+
+    <color name="gradient143_c1">#72EDF2</color>
+    <color name="gradient143_c2">#5151E5</color>
+    <color name="gradient143_c3">#519be5</color>
+
+    <array name="gradient143">
+        <item>@color/gradient143_c1</item>
+        <item>@color/gradient143_c2</item>
+        <item>@color/gradient143_c3</item>
+    </array>
+
+    <color name="gradient144_c1">#FF9D6C</color>
+    <color name="gradient144_c2">#BB4E75</color>
+    <color name="gradient144_c3">#bb5d4e</color>
+
+    <array name="gradient144">
+        <item>@color/gradient144_c1</item>
+        <item>@color/gradient144_c2</item>
+        <item>@color/gradient144_c3</item>
+    </array>
+
+    <color name="gradient145_c1">#F6D242</color>
+    <color name="gradient145_c2">#FF52E5</color>
+    <color name="gradient145_c3">#ff528f</color>
+
+    <array name="gradient145">
+        <item>@color/gradient145_c1</item>
+        <item>@color/gradient145_c2</item>
+        <item>@color/gradient145_c3</item>
+    </array>
+
+    <color name="gradient146_c1">#69FF97</color>
+    <color name="gradient146_c2">#00E4FF</color>
+    <color name="gradient146_c3">#00ff9b</color>
+
+    <array name="gradient146">
+        <item>@color/gradient146_c1</item>
+        <item>@color/gradient146_c2</item>
+        <item>@color/gradient146_c3</item>
+    </array>
+
+    <color name="gradient147_c1">#3B2667</color>
+    <color name="gradient147_c2">#BC78EC</color>
+    <color name="gradient147_c3">#8278ec</color>
+
+    <array name="gradient147">
+        <item>@color/gradient147_c1</item>
+        <item>@color/gradient147_c2</item>
+        <item>@color/gradient147_c3</item>
+    </array>
+
+    <color name="gradient148_c1">#70F570</color>
+    <color name="gradient148_c2">#49C628</color>
+    <color name="gradient148_c3">#98c628</color>
+
+    <array name="gradient148">
+        <item>@color/gradient148_c1</item>
+        <item>@color/gradient148_c2</item>
+        <item>@color/gradient148_c3</item>
+    </array>
+
+    <color name="gradient149_c1">#3C8CE7</color>
+    <color name="gradient149_c2">#00EAFF</color>
+    <color name="gradient149_c3">#006bff</color>
+
+    <array name="gradient149">
+        <item>@color/gradient149_c1</item>
+        <item>@color/gradient149_c2</item>
+        <item>@color/gradient149_c3</item>
+    </array>
+
+    <color name="gradient150_c1">#FAB2FF</color>
+    <color name="gradient150_c2">#1904E5</color>
+    <color name="gradient150_c3">#045fe5</color>
+
+    <array name="gradient150">
+        <item>@color/gradient150_c1</item>
+        <item>@color/gradient150_c2</item>
+        <item>@color/gradient150_c3</item>
+    </array>
+
+    <color name="gradient151_c1">#81FFEF</color>
+    <color name="gradient151_c2">#F067B4</color>
+    <color name="gradient151_c3">#f06770</color>
+
+    <array name="gradient151">
+        <item>@color/gradient151_c1</item>
+        <item>@color/gradient151_c2</item>
+        <item>@color/gradient151_c3</item>
+    </array>
+
+    <color name="gradient152_c1">#FFA8A8</color>
+    <color name="gradient152_c2">#FCFF00</color>
+    <color name="gradient152_c3">#7dff00</color>
+
+    <array name="gradient152">
+        <item>@color/gradient152_c1</item>
+        <item>@color/gradient152_c2</item>
+        <item>@color/gradient152_c3</item>
+    </array>
+
+    <color name="gradient153_c1">#D7816A</color>
+    <color name="gradient153_c2">#BD4F6C</color>
+    <color name="gradient153_c3">#bd694f</color>
+
+    <array name="gradient153">
+        <item>@color/gradient153_c1</item>
+        <item>@color/gradient153_c2</item>
+        <item>@color/gradient153_c3</item>
+    </array>
+
+    <color name="gradient154_c1">#5F0A87</color>
+    <color name="gradient154_c2">#A4508B</color>
+    <color name="gradient154_c3">#a45061</color>
+
+    <array name="gradient154">
+        <item>@color/gradient154_c1</item>
+        <item>@color/gradient154_c2</item>
+        <item>@color/gradient154_c3</item>
+    </array>
+
+    <color name="gradient155_c1">#20BF55</color>
+    <color name="gradient155_c2">#01BAEF</color>
+    <color name="gradient155_c3">#0143ef</color>
+
+    <array name="gradient155">
+        <item>@color/gradient155_c1</item>
+        <item>@color/gradient155_c2</item>
+        <item>@color/gradient155_c3</item>
+    </array>
+
+    <color name="gradient156_c1">#A40606</color>
+    <color name="gradient156_c2">#D98324</color>
+    <color name="gradient156_c3">#d5d924</color>
+
+    <array name="gradient156">
+        <item>@color/gradient156_c1</item>
+        <item>@color/gradient156_c2</item>
+        <item>@color/gradient156_c3</item>
+    </array>
+
+    <color name="gradient157_c1">#B91372</color>
+    <color name="gradient157_c2">#6B0F1A</color>
+    <color name="gradient157_c3">#6b320f</color>
+
+    <array name="gradient157">
+        <item>@color/gradient157_c1</item>
+        <item>@color/gradient157_c2</item>
+        <item>@color/gradient157_c3</item>
+    </array>
+
+    <color name="gradient158_c1">#F2A65A</color>
+    <color name="gradient158_c2">#772F1A</color>
+    <color name="gradient158_c3">#775e1a</color>
+
+    <array name="gradient158">
+        <item>@color/gradient158_c1</item>
+        <item>@color/gradient158_c2</item>
+        <item>@color/gradient158_c3</item>
+    </array>
+
+    <color name="gradient159_c1">#233329</color>
+    <color name="gradient159_c2">#63D471</color>
+    <color name="gradient159_c3">#63d4aa</color>
+
+    <array name="gradient159">
+        <item>@color/gradient159_c1</item>
+        <item>@color/gradient159_c2</item>
+        <item>@color/gradient159_c3</item>
+    </array>
+
+    <color name="gradient160_c1">#A71D31</color>
+    <color name="gradient160_c2">#3F0D12</color>
+    <color name="gradient160_c3">#3f210d</color>
+
+    <array name="gradient160">
+        <item>@color/gradient160_c1</item>
+        <item>@color/gradient160_c2</item>
+        <item>@color/gradient160_c3</item>
+    </array>
+
+    <color name="gradient161_c1">#009FFD</color>
+    <color name="gradient161_c2">#2A2A72</color>
+    <color name="gradient161_c3">#4e2a72</color>
+
+    <array name="gradient161">
+        <item>@color/gradient161_c1</item>
+        <item>@color/gradient161_c2</item>
+        <item>@color/gradient161_c3</item>
+    </array>
+
+    <color name="gradient162_c1">#5AFF15</color>
+    <color name="gradient162_c2">#00B712</color>
+    <color name="gradient162_c3">#00b76e</color>
+
+    <array name="gradient162">
+        <item>@color/gradient162_c1</item>
+        <item>@color/gradient162_c2</item>
+        <item>@color/gradient162_c3</item>
+    </array>
+
+    <color name="gradient163_c1">#F53844</color>
+    <color name="gradient163_c2">#42378F</color>
+    <color name="gradient163_c3">#37588f</color>
+
+    <array name="gradient163">
+        <item>@color/gradient163_c1</item>
+        <item>@color/gradient163_c2</item>
+        <item>@color/gradient163_c3</item>
+    </array>
+
+    <color name="gradient164_c1">#F53803</color>
+    <color name="gradient164_c2">#F5D020</color>
+    <color name="gradient164_c3">#f56620</color>
+
+    <array name="gradient164">
+        <item>@color/gradient164_c1</item>
+        <item>@color/gradient164_c2</item>
+        <item>@color/gradient164_c3</item>
+    </array>
+
+    <color name="gradient165_c1">#08C8F6</color>
+    <color name="gradient165_c2">#4D5DFB</color>
+    <color name="gradient165_c3">#944dfb</color>
+
+    <array name="gradient165">
+        <item>@color/gradient165_c1</item>
+        <item>@color/gradient165_c2</item>
+        <item>@color/gradient165_c3</item>
+    </array>
+
+    <color name="e1">#80bd9e</color>
+    <color name="e2">#336b87</color>
+    <color name="e3">#693d3d</color>
+    <color name="e4">#505160</color>
+    <color name="e5">#66a5ad</color>
+    <color name="e6">#486b00</color>
+    <color name="shfaf">#00ff6d40</color>
+
+    <color name="purple">#9C27B0</color>
+    <color name="deep_purple">#673AB7</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#009688</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="lime">#CDDC39</color>
+    <color name="amber">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="deep_orange">#FF5722</color>
+    <color name="blue_grey">#607D8B</color>
+    <color name="settings_title_bg">#98d1ff</color>
+
+
+</resources>

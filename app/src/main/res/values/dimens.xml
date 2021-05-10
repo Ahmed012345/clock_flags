@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="widget_margin">@dimen/_8mdp</dimen>
+    <dimen name="fab_margin">@dimen/_16mdp</dimen>
+    <dimen name="horizontalPadding">@dimen/_16mdp</dimen>
+    <dimen name="bottom_pnl_small_btn_size">54dp</dimen>
+    <dimen name="menu_item_icon_size">24dp</dimen>
+    <dimen name="rippleStrokeWidth">2dp</dimen>
+    <dimen name="rippleRadius">64dp</dimen>
+    <dimen name="xlarge_text">@dimen/_16font_mdp</dimen>
+    <dimen name="xxlarge_text">@dimen/_18font_mdp</dimen>
+    <dimen name="massege">@dimen/_18font_mdp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="defaultDividerHeight">4dp</dimen>
+    <dimen name="defaultProgressBarHeight">1dp</dimen>
+    <dimen name="defaultTitleSize">14dp</dimen>
+    <dimen name="defaultUrlSize">10dp</dimen>
+    <dimen name="defaultMenuDropShadowCornerRadius">2dp</dimen>
+    <dimen name="defaultMenuDropShadowSize">4dp</dimen>
+    <dimen name="defaultMenuTextSize">16dp</dimen>
+    <dimen name="defaultMenuTextPaddingLeft">16dp</dimen>
+    <dimen name="defaultMenuTextPaddingRight">32dp</dimen>
+    <dimen name="defaultMenuLayoutMargin">4dp</dimen>
+    <dimen name="defaultMenuCornerRadius">2dp</dimen>
+    <dimen name="toolbarHeight">56dp</dimen>
+    <dimen name="menusWidth">168dp</dimen>
+    //النشيد
+    <dimen name="enwan">@dimen/_20font_mdp</dimen>
+    <dimen name="nashed_margen_end">@dimen/_10mdp</dimen>
+    <dimen name="nashed_margen_top">@dimen/_10mdp</dimen>
+    <dimen name="nashed_margen_start">@dimen/_10mdp</dimen>
+    <dimen name="tfsel">@dimen/_18font_mdp</dimen>
+
+    //الإفتتاح
+    <dimen name="enwan_big">@dimen/_22font_mdp</dimen>
+    <dimen name="enwan_small">@dimen/_20font_mdp</dimen>
+   // قائمة عن التطبيق
+    <dimen name="app_icon_size">90dp</dimen>
+    <dimen name="profile_picture_size">100dp</dimen>
+    <dimen name="profile_picture_border">3dp</dimen>
+    <dimen name="card_radius">3dp</dimen>
+    <dimen name="card_elevation">3dp</dimen>
+    <dimen name="social_media_vertical_padding">10dp</dimen>
+    <dimen name="icon_size">25dp</dimen>
+
+</resources>
