@@ -24,7 +24,7 @@ android {
         config {
             keyAlias 'keyclock'
             keyPassword 'android'
-            storeFile file('C:/Users/AhmedSaad/keystores/clockss.jks')
+            storeFile file('C:/Users/..../keystores/clockss.jks')
             storePassword 'android'
         }
     }
