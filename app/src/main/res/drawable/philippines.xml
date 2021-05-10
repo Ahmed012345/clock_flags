@@ -1,0 +1,103 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/_200mdp"
+    android:height="@dimen/_200mdp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+  <group>
+    <clip-path
+        android:pathData="M150,150m-150,0a150,150 0,1 1,300 0a150,150 0,1 1,-300 0"/>
+    <path
+        android:pathData="M0,0h300v300h-300z"
+        android:fillColor="#0038a8"/>
+    <path
+        android:pathData="M0,150h300v150h-300z"
+        android:fillColor="#ce1126"/>
+    <path
+        android:pathData="M150,150 L0,300V0"
+        android:fillColor="#fff"/>
+    <path
+        android:pathData="M66.63,150m-16.85,0a16.85,16.85 0,1 1,33.7 0a16.85,16.85 0,1 1,-33.7 0"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M31.05,150l2.19,2.19L66.63,150l-33.39,-2.19Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M34.8,154.19 L36.58,156l30.05,-6Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M34.8,145.81 L36.58,144l30.05,6Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M41.47,124.84v3.09L66.63,150 44.57,124.84Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M41.16,130.45V133l25.47,17Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M47.08,124.52h2.53l17,25.48Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M66.63,114.42l-2.19,2.19L66.63,150l2.19,-33.39Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M62.44,118.16 L60.66,120l6,30.05Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M70.82,118.16 L72.61,120l-6,30.05Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M91.79,124.84H88.7L66.63,150l25.16,-22.07Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M86.18,124.52H83.66L66.63,150Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M92.11,130.45V133L66.63,150Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M102.22,150 L100,147.81 66.63,150l33.4,2.19Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M98.47,145.81 L96.68,144l-30.05,6Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M98.47,154.19 L96.68,156l-30.05,-6Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M91.79,175.16v-3.09L66.63,150 88.7,175.16Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M92.11,169.55V167L66.63,150Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M86.18,175.48H83.66L66.63,150Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M66.63,185.58l2.19,-2.19L66.63,150l-2.19,33.39Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M70.82,181.84l1.79,-1.79 -6,-30.05Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M62.44,181.84l-1.78,-1.79 6,-30.05Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M41.47,175.16h3.1L66.63,150 41.47,172.07Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M47.08,175.48h2.53l17,-25.48Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M41.16,169.55V167l25.47,-17Z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M18.15,90.38l6.65,0.84l1.53,6.52l2.85,-6.07l6.68,0.57l-4.89,-4.59l2.6,-6.18l-5.87,3.24l-5.08,-4.39l1.26,6.59l-5.73,3.47z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M18.15,209.62l5.73,3.47l-1.26,6.59l5.08,-4.39l5.87,3.24l-2.6,-6.18l4.89,-4.59l-6.68,0.56l-2.85,-6.06l-1.53,6.52l-6.65,0.84z"
+        android:fillColor="#fcd116"/>
+    <path
+        android:pathData="M126.37,144.5l3.83,5.5l-3.83,5.5l6.42,-1.94l4.05,5.35l0.13,-6.71l6.34,-2.2l-6.34,-2.2l-0.13,-6.71l-4.05,5.35l-6.42,-1.94z"
+        android:fillColor="#fcd116"/>
+  </group>
+</vector>
